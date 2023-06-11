@@ -9,6 +9,10 @@ public class mainYoga {
 
         System.out.println("Nome: " + segundoExercicio.getNome() + "\nDescrição: " + segundoExercicio.getDescricao() + "\nNome em Português: " + segundoExercicio.getNomePortugues());
 
+        exYoga terceiroExercicio = new exYoga("123", "321", "444");
+
+        System.out.println("Nome: " + terceiroExercicio.getNome() + "\nDescrição: " + terceiroExercicio.getDescricao() + "\nNome em Português: " + terceiroExercicio.getNomePortugues());
+
 
 
 
